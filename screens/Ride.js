@@ -73,6 +73,7 @@ export default class RideScreen extends Component {
 
           
           //Add a alert box to display "You have rented the bike for next 1 hour. Enjoy your ride!!"
+          Alert.alert("You have rented the bike for next 1 hour. Enjoy your ride!!");
           
 
           this.setState({
